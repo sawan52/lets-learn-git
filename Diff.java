@@ -4,5 +4,6 @@ public class Sum{
         int a = 5;
         int b = 10;
         
+        System.out.println("Difference of " + a + " and " + b + " is " + (a - b));
     }
 }
